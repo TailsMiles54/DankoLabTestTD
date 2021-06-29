@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityDev\DankoLabTest\DankoLabTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AurynSky" t="Include">
+          <e p="Forest Pack" t="Include">
+            <e p="READ ME.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="ChestDemo.cs" t="Include" />
+              <e p="MaterialMover.cs" t="Include" />
+              <e p="Rotator.cs" t="Include" />
+              <e p="WheelController.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AmmoScript.cs" t="Include" />
+          <e p="AmmoSettings.cs" t="Include" />
+          <e p="BuildingsGrid.cs" t="Include" />
+          <e p="EnemyLogic.cs" t="Include" />
+          <e p="EnemySettings.cs" t="Include" />
+          <e p="EnemySpawner.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GameSettingsScript.cs" t="Include" />
+          <e p="HealthBar.cs" t="Include" />
+          <e p="Tower.cs" t="Include" />
+          <e p="TowerManager.cs" t="Include" />
+          <e p="TowerSettings.cs" t="Include" />
+          <e p="TowerShoot.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DankoLabTest.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\TailsMiles\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\TailsMiles\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DankoLabTest.11281755.00" t="ExcludeRecursive" />
+  </component>
+</project>
